@@ -1,6 +1,7 @@
 Full Stack Job Portal App
 
 Vercel Link: [https://job-portal-five-blush.vercel.app/](url)
+
 A fully functional job portal web application where job seekers can search and apply for jobs while recruiters can post openings, manage applications, and review resumes.
 
 ## 🚀 Tech Stack
